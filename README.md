@@ -1,24 +1,10 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Railsによる掲示板アプリ
+Ruby on Railsの入門として作成  
+一般的な掲示板です　　
+　　　　
+・CRUD　　
+・返信  
+・ページング  
+・タグ　　
+　　　　
+などの機能を実装　　  
